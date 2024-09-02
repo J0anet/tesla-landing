@@ -1,3 +1,21 @@
+
+
+
+![tesla-photo](https://github.com/user-attachments/assets/8c17f6af-1bff-4479-aebf-8684d0d740c4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Astro Starter Kit: Basics
 
 ```
